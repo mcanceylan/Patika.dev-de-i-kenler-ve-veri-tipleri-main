@@ -1,0 +1,15 @@
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\bin\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.exe
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\bin\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.deps.json
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\bin\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.runtimeconfig.json
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\bin\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.dll
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\bin\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.csproj.AssemblyReference.cache
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.AssemblyInfoInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.AssemblyInfo.cs
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.csproj.CoreCompileInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.dll
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\refint\Patika.dev-de-i-kenler-ve-veri-tipleri-main.dll
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\Patika.dev-de-i-kenler-ve-veri-tipleri-main.genruntimeconfig.cache
+C:\Users\c2meh\Desktop\Softwares\Patika_Pratikler\Patika.dev-de-i-kenler-ve-veri-tipleri-main\obj\Debug\net7.0\ref\Patika.dev-de-i-kenler-ve-veri-tipleri-main.dll
